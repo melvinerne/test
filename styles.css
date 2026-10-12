@@ -21,8 +21,8 @@ body {
 }
 
 body {
-    background-color: hsl(212, 36%, 90%);
-    color: hsl(210, 93%, 29%);
+    background-color: hsl(337 83% 41%);
+    color: hsl(212 62% 71%);
     text-align: center;
     font-family: 'Roboto Slab', Arial, serif;
     font-weight: 300;
@@ -41,7 +41,7 @@ h1 {
 .compliment {
     background-color: hsl(212, 43%, 65%);
     flex-basis: 200px;
-    color: white;
+    color: #b86969;
     padding: 32px;
 }
 
@@ -52,7 +52,7 @@ h1 {
 
 footer {
     background-color: hsl(29, 100%, 47%);
-    color: white;
+    color: #199f39;
     height: 100px;
     display: flex;
     align-items: center;
